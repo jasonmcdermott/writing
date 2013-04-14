@@ -2,7 +2,7 @@
 
 Enter Text in Markdown format.
 
-This is [Prose for Writers][Prose.io]
+This is [Prose for Writers][Prose]
 
 
 
@@ -16,4 +16,4 @@ This is [Prose for Writers][Prose.io]
 
 
 
-[Prose.io]: http://prose.io/help/prose-for-writers.html
+[Prose]: http://prose.io/help/prose-for-writers.html
